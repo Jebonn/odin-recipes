@@ -1,2 +1,2 @@
 # odin-recipes
-Pratice website for working with html and git commands.
+Pratice website for working with html, git commands, and css.
